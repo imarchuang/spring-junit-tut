@@ -1,0 +1,20 @@
+# maven 
+**/target
+.mvn/timing.properties
+log/
+
+# Eclipse
+.settings
+.classpath
+.project
+
+# IDEA
+.idea
+*.ipr
+*.iws
+*.iml
+
+# TEST
+test-*
+**/data
+**/logs
